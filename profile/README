@@ -1,1 +1,148 @@
-landing page
+Here is a fully formatted `README.md` file content for your GitHub profile. It includes animated banners, skill icons, and a clean professional layout.
+
+You can copy the code block below and paste it directly into a file named `README.md` on your GitHub profile repository.
+
+```markdown
+<div align="center">
+
+  <!-- Animated Header Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF6&center=true&vCenter=true&random=false&width=600&lines=Savantech+Link;Innovative+Web+%26+Data+Solutions" alt="Savantech Link Header" />
+
+  <p><strong>Building the future with SaaS, Data Engineering, and AI.</strong></p>
+
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/Website-savantech.org-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  <img src="https://img.shields.io/badge/Email-savantech25@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/WhatsApp-+22604894780-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+
+  <br/>
+  <br/>
+</div>
+
+---
+
+### 🚀 About Us
+We are a technology company dedicated to building high-performance **SaaS products** while offering our expertise to clients worldwide. We bridge the gap between complex business needs and modern technology, delivering scalable web applications and robust data solutions.
+
+---
+
+### 💻 Web Development & SaaS
+We build modern, scalable applications tailored to your business model.
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🖥️ Frontend</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react," />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+      </p>
+      <ul>
+        <li><strong>Web Apps:</strong> Dynamic interfaces using ReactJS.</li>
+        <li><strong>Mobile Apps:</strong> Cross-platform solutions via React Native.</li>
+        <li><strong>CMS/CRM:</strong> Custom WordPress solutions.</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>⚙️ Backend</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python," />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      </p>
+      <ul>
+        <li>Robust APIs using <strong>FastAPI (Python)</strong>.</li>
+        <li>Packaged code for stability and deployment.</li>
+        <li>Scalable architecture for SaaS products.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Data, Analytics & AI
+Transforming raw data into actionable insights and intelligent applications.
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>🏗️ Engineering & ETL</h3>
+      <p>
+         <!-- Icons for ETL/Engineering -->
+        <img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white" alt="Talend"/>
+        <img src="https://img.shields.io/badge/Control_M-1B3E6E?style=for-the-badge&logo=bmc&logoColor=white" alt="Control-M"/>
+      </p>
+      <p>Building reliable pipelines with <strong>Talend</strong> and orchestration via <strong>Control-M</strong>.</p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>📈 Visualization</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+      </p>
+      <p>Creating interactive dashboards for business intelligence.</p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>🤖 AI & Platforms</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=py," />
+        <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+        <img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="DBT"/>
+      </p>
+      <p>LLMs, Machine Learning, and Dataiku implementations.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ☁️ Cloud & DevOps
+We leverage the cloud to ensure scalability and security.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,github,gitlab,docker" />
+  <br/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
+</p>
+
+---
+
+### 🛠️ Our Tech Stack
+A summary of the technologies we master daily.
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,md" />
+  <br/>
+  <!-- Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=react,fastapi,wordpress,git,docker,linux" />
+  <br/>
+  <!-- Cloud -->
+  <img src="https://skillicons.dev/icons?i=azure,github,gitlab,vscode" />
+</p>
+
+---
+
+### 📞 Connect With Us
+
+<p align="center">
+  <a href="mailto:savantech25@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/22604894780">
+    <img src="https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://savantech.org">
+    <img src="https://img.shields.io/badge/Visit_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" alt="Footer Wave"/>
+</p>
+```
