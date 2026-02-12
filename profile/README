@@ -2,7 +2,7 @@ Here is a fully formatted `README.md` file content for your GitHub profile. It i
 
 You can copy the code block below and paste it directly into a file named `README.md` on your GitHub profile repository.
 
-```markdown
+
 <div align="center">
 
   <!-- Animated Header Banner -->
@@ -145,4 +145,4 @@ A summary of the technologies we master daily.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" alt="Footer Wave"/>
 </p>
-```
+
